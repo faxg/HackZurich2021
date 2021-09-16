@@ -79,12 +79,13 @@ We will show you how to get ready for hacking on your GitHub repository in no ti
 
 - Sat 25.09. 11:00 - 11:25 (CEST)
 - Auditorium / Online
-- Livestream: TBD
+- [Livestream](https://www.youtube.com/watch?v=sJsgJJUC4rY)
 - Slides: TBD
 
 
 #### Sunday
 Closing Ceremony
+- [Livestream](https://www.youtube.com/watch?v=QHyC0QnEglE)
 
 
 
