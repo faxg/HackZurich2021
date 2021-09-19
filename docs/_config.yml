@@ -1,0 +1,5 @@
+#theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme
+baseurl: "/HackZurich2021"
+plugins:
+- github-pages
