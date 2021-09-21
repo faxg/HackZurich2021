@@ -1,0 +1,21 @@
+- label: HackZurich 2021 - SwissRe / Microsoft
+  items:
+    - name: The Challenge
+      link: /the_challenge
+      
+    - name: Learning Resources
+      link: /resources
+
+    - name: Workshops and Talks
+      link: /workshop
+
+    - name: Learning
+      link: /azure
+      items:
+      - name: Skill Challenges
+        link: /azure
+      - name: Azure Services
+        link: /azure
+      - name: Getting support
+        link: /azure
+
