@@ -4,8 +4,8 @@
 layout: page
 title: Challenge
 subtitle: How to build personal resilience and "Own The Way You Work" (OTWYW) ?
-image: img/we_will_be_back.jpg
-description: The pages meta description
+hero_image: img/hero_image2.jpg
+hero_darken: true
 menubar: menu
 ---
 

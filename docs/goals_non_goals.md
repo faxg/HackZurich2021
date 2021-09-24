@@ -4,7 +4,8 @@
 layout: page
 title: Goals and Non-Goals
 subtitle: What we would love to see, and what not.
-description: The pages meta description
+hero_image: img/blue.jpg
+hero_darken: false
 menubar: menu
 ---
 

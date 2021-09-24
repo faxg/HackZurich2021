@@ -4,65 +4,53 @@
 layout: page
 title: Azure Services
 subtitle: How to get started with Microsoft Azure
-image: img/we_will_be_back.jpg
-description: The pages meta description
+hero_image: img/hero_image5.jpg
+hero_darken: false
+
 menubar: menu
 ---
 
-# Microsoft Azure Charts
+**Azure Charts** is a great way to quickly find a lot of information on many Azure Services.
 
-Azure Charts is a great way to quickly find a lot of information on many Azure Services.
+[https://azurecharts.com/links](https://azurecharts.com/links)
+[![Foo](img/azure_charts.png)](https://azurecharts.com/links)
 
-Click on any service to get to the docs: [https://azurecharts.com/links](https://azurecharts.com/links)
+# Microsoft Docs and Learn
+
+You'll find all kinds of docs, tutorials end learning paths there:
+
+- [Microsft Azure Docs](https://docs.microsoft.com/en-us/azure/?product=featured)
+- [Microsoft Learn](https://docs.microsoft.com/learn/)
 
 ## Azure Compute
 
-- App Service for Containers:
-- Azure Functions (Serverless):
-- Azure Static WebApps (SWA):
+Run apps in containers
 
-## Databases etc.
+- [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/)
+- [Azure Functions (Serverless)](https://docs.microsoft.com/en-us/azure/azure-functions/)
+- [Azure Static WebApps ("JAMStack")](https://docs.microsoft.com/en-us/azure/static-web-apps/)
 
-- Azure SQL DB:
-- Azure CosmosDB:
-- Azure PostGres:
-- Azure MySQL:
+## Storage & Databases
+
+- [Azure CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+- [Azure PostGres](https://docs.microsoft.com/en-us/azure/postgresql/)
+- [Azure MySQL](https://docs.microsoft.com/en-us/azure/mysql/)
 
 ## Machine Learning, A.I. and Cognitive
 
-- Azure Machine Learning:
-- Azure AutoML:
-- Azure Cognitive Services (Overview):
-- Azure Custom Vision:
-- Azure Text Analytics:
-- Azure Text Translate:
-- Azure Form Recognizer:
-- Bot Framework:
+- [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/)
+- [Azure Cognitive Services (Vision/Language/Speech/Decision)](https://docs.microsoft.com/en-us/azure/cognitive-services/)
+- [Bot Framework Composer](https://docs.microsoft.com/en-us/composer/)
 
-## Microsoft Bing Maps
+## Maps and Mixed Reality
 
-- [Bing Maps Dev Center](https://www.bingmapsportal.com/)
-- [Bing Maps Documentation](https://docs.microsoft.com/en-us/bingmaps/)
-- [Bing Maps interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk)
-- [Bing Maps REST Services](https://docs.microsoft.com/en-us/bingmaps/rest-services/)
-
-## Virtual and Augmented Reality, Hololens
-
-- Getting Started with VR/AR
-- Hololens SDK (Unity):
-- Hololens Emulator:
-- [Mixed Reality: Azure Spatial Anchors](https://azure.microsoft.com/en-us/services/spatial-anchors/)
-- [Spatial Anchors Docs](https://docs.microsoft.com/en-us/azure/spatial-anchors/)
-
-## Intgeration with Office 365 and Teams
-
-- Power Platform (Low Code platform, requires trial account):
-- MS Teams SDK:
-- Microsoft Graph:
-
-## Real-time, Messaging etc..
-
-- SignalR
-- IoT Hub
+- [Azure Maps](https://docs.microsoft.com/en-us/azure/azure-maps/)
+- [Azure Object Anchors](https://docs.microsoft.com/en-us/azure/object-anchors/)
+- [Azure Spatial Anchors](https://docs.microsoft.com/en-us/azure/spatial-anchors/)
+- [Mixed Reality Homepage](https://docs.microsoft.com/en-us/windows/mixed-reality/)
+- [Mixed Reality Development](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/development)
 
 ## GitHub and GitHub Actions
+
+- [GitHub Lerning Lab](https://lab.github.com/)
+- [Learning Path: Automate your workflow with GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/)

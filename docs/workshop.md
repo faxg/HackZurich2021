@@ -5,14 +5,15 @@ layout: page
 title: Workshops and Tech Talks
 subtitle: Join us for our Challenge Workshops and Microsoft Tech Talk
 menubar: menu
+hero_image: img/hero_image4.jpg
+hero_darken: false
 ---
 
 ## Challenge Workshops
 
 - **Date & Time:** Friday, 24.09., 21:30 – 22:05 & 22:15 – 22:50 (CEST)
 - **Room:** "Newton 1009"
-- **Livestream:** TBD
-- **Slides:** TBD
+- **Zoom:** [Link](https://us02web.zoom.us/j/87151157439?pwd=THIrakRwV0NWdVJJSnFtL2t2c0Jadz09)
 
 ## Microsoft Tech Talk
 
@@ -24,5 +25,4 @@ We will show you how to get ready for hacking on your GitHub repository in no ti
 
 - **Date & Time:** Saturday, 25.09., 11:00 - 11:25 (CEST)
 - **Room:** Auditorium & Live
-- **Livestream:** TBD
-- **Slides:** TBD
+- **Zoom:** [Link](https://youtu.be/sJsgJJUC4rY)
