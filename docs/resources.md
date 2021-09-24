@@ -5,10 +5,10 @@ layout: page
 title: Resources
 subtitle: Additional reading and data points for this challenge
 menubar: menu
-hero_image: img/hero_image2.jpg
+hero_image: img/hero_image3.jpg
 
 challenge_videoId: 0xT4mBgjg0w
-swissre_videoId: ZrPQe6Qssng
+swissre_videoId: sGPj7i0Urvs
 ---
 
 ## SwissRe

@@ -12,8 +12,7 @@
 
     - name: Workshops and Talks
       link: /workshop
-    - name: Jobs and Programs
-      link: /jobs_and_benefits
+
 
     - name: Technical Resources
       link: /azure
@@ -22,5 +21,7 @@
           link: /azure
         - name: Datasets and APIs
           link: /data
+    - name: Jobs and Programs
+      link: /jobs_and_benefits
     - name: Contact us
       link: /contact
